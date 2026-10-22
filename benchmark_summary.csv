@@ -1,0 +1,6 @@
+﻿concurrency,total_requests,successful,client_errors_4xx,server_errors_5xx,network_errors,total_time_sec,avg_latency_sec,p95_latency_sec,completed_requests_per_sec,successful_requests_per_sec
+1,100,100,0,0,0,12.9175,0.1291,0.2195,7.74,7.74
+5,100,100,0,0,0,4.2185,0.2028,0.3175,23.71,23.71
+10,100,100,0,0,0,3.3254,0.3176,0.4553,30.07,30.07
+20,100,100,0,0,0,3.4292,0.5996,1.1437,29.16,29.16
+50,100,100,0,0,0,3.5644,0.865,1.5592,28.06,28.06

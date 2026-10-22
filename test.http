@@ -1,0 +1,9 @@
+### 1. 회원가입
+POST http://127.0.0.1:8000/api/accounts/register/
+Content-Type: application/json
+
+{
+    "username": "testuser",
+    "password": "password123!",
+    "email": "test@example.com"
+}
